@@ -6,6 +6,10 @@ It publishes the archive to github pages, and provides unique routes for all v1 
 
 - https://transmute-industries.github.io/traceability-v1/
 
+### TODO
+
+- CNAME binding?
+
 ### Usage
 
 ```
