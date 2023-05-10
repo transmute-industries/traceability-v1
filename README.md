@@ -9,6 +9,7 @@ It publishes the archive to github pages, and provides unique routes for all v1 
 ### TODO
 
 - CNAME binding?
+- [Update w3id.org ?](https://github.com/perma-id/w3id.org/blob/master/traceability/.htaccess)
 
 ### Usage
 
